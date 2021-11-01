@@ -1,4 +1,4 @@
-<h2 align="center">Electrical Drawing of a Residential Building</h2>
+<h2 align="center">Automatic Traffic Light controller</h2>
 
 <html>
 <body>
